@@ -1,6 +1,6 @@
 # HarperDB Civilizations App
 
-![HarperDB](/img/harperdb-civilizations.png)
+![HarperDB](/img/harperdb-civilizations.jpg)
 
 ## Install and setup
 
