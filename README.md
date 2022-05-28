@@ -1,3 +1,8 @@
 # HarperDB Civilizations App
 
-![https://res.cloudinary.com/d74fh3kw/image/upload/v1646691854/harperdb-civilisations_ibbqtu.png](https://res.cloudinary.com/d74fh3kw/image/upload/v1646691854/harperdb-civilisations_ibbqtu.png)
+![HarperDB](/img/harperdb-civilizations.png)
+
+## Install and setup
+
+1. Run `npm install` to install dependencies
+2. Run `npm run start` to start the app

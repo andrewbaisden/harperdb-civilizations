@@ -18,6 +18,7 @@ const App = () => {
 
 	useEffect(() => {
 		const getApi = () => {
+			// Replace this API URL with your Custom Functions Server URL
 			const API = 'https://functions-cloud-1-abaisden.harperdbcloud.com/api';
 
 			fetch(API)
